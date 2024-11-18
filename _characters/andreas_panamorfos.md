@@ -1,13 +1,11 @@
 ---
 title: Andreas Panamorfos
-image: /assets/img/characters/andreas_full.webp
-preview: /assets/img/characters/andreas_preview.webp
+image: assets/img/characters/andreas_full.webp
+preview: assets/img/characters/andreas_preview.webp
 tag: [ PC, Human, Cleric, Beauty, Noble ]
 stats:
     Fame: 0
-    Aspect: Comedy
 ---
-{% include dice.html dice="d6" %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis magna et enim congue sodales. Nullam euismod iaculis ex, sit amet egestas orci convallis sit amet. Vivamus erat orci, consequat in ultrices quis, sagittis ac quam. Quisque accumsan, urna vitae vestibulum faucibus, ex sem tincidunt mauris, viverra scelerisque orci sapien at justo. In odio libero, pellentesque vitae massa et, cursus molestie nisi. Pellentesque eu laoreet eros. Proin orci massa, lobortis ac ligula ac, finibus iaculis quam. Quisque eget consectetur ante. Nullam maximus facilisis dolor ac volutpat. Phasellus egestas nulla non fermentum faucibus. Maecenas nec nisi mauris.
 
